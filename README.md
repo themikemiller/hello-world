@@ -1,2 +1,2 @@
 # hello-world
-First Project
+My name is Mike Miller.  This is my first Project!
